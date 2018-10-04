@@ -1,5 +1,5 @@
 # source: https://us1.prisma.sh/samuel-allemang/wb-sick-fits/dev
-# timestamp: Wed Sep 26 2018 19:01:47 GMT-0400 (EDT)
+# timestamp: Sat Sep 29 2018 16:46:54 GMT-0400 (EDT)
 
 type AggregateItem {
   count: Int!
